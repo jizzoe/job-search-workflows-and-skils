@@ -19,6 +19,10 @@ Expect a growing collection of AI assistant skills, prompts, automations, and su
 
 If anything here is useful to you — fork it, copy it, adapt it, lift the code or the pattern outright. No attribution required, no permission needed. If you're job hunting too, I hope this saves you some time.
 
+## License
+
+MIT — see [LICENSE](LICENSE). Use it however you want.
+
 ## Status
 
 Early and actively evolving. Built in the open while the search is happening.
