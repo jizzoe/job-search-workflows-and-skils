@@ -15,6 +15,18 @@ After 8 years at a major healthcare IT company, I was laid off. This repo is whe
 
 Expect a growing collection of AI assistant skills, prompts, automations, and supporting scripts focused on the mechanics of job hunting. Structure and organization are still evolving as the collection grows.
 
+## Planning
+
+Reusable workflow planning lives in:
+
+- [Job-search skill roadmap](ai-planning/design-briefs/job-search-skill-roadmap.md)
+- [Job-search skill reference patterns](ai-planning/research/job-search-skill-reference-patterns.md)
+
+Personal workflow policy, tracker material, and application research remain under
+`ai-planning/personal/`. The reusable planning documents reference those records
+without copying personal details or standing job-search preferences into the
+shared skill contracts.
+
 ## Use it, fork it, steal it
 
 If anything here is useful to you — fork it, copy it, adapt it, lift the code or the pattern outright. No attribution required, no permission needed. If you're job hunting too, I hope this saves you some time.
