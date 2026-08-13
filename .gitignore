@@ -29,4 +29,5 @@ venv/
 # Personal job-search data (resumes, cover letters, application trackers, contacts)
 /private/
 /data/
+/ai-planning/personal/
 *.local.*

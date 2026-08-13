@@ -1,0 +1,130 @@
+# Joe Rice
+
+Principal Software Engineer / Software Architect
+Providence, RI area | Remote-first | Java | Spring Boot | AWS | Microservices | Platform Modernization | AI-Assisted Delivery
+joericejob@gmail.com
+Phone: 321-219-8317
+LinkedIn: linkedin.com/in/joericearchitect
+
+## Summary
+
+Principal software engineer and hands-on software architect with 20+ years leading enterprise Java systems and a career spanning high-traffic commerce, healthcare, and platform modernization work. Deep background in backend architecture, Java / Spring Boot, AWS, microservices, infrastructure as code, CI/CD, Dockerized services, Snowflake, data pipelines, performance engineering, and technical leadership.
+
+Known for designing cloud-native systems, decomposing legacy platforms, leading technical delivery across scrum teams, and coding the foundational and complex parts of high-value systems. Practical AI adopter with experience using Claude and Codex to automate engineering workflows, accelerate planning and delivery, improve root cause analysis, and support AI-assisted SDLC practices.
+
+## Core Skills
+
+**Architecture:** Distributed systems, microservices, REST APIs, domain-driven design, API-first architecture, cloud-native architecture, system decomposition, platform modernization
+
+**Backend:** Java, Spring Boot, enterprise Java, reactive programming, service design, performance tuning, production readiness
+
+**Cloud / DevOps:** AWS, AWS EKS, AWS Glue, infrastructure as code, Terraform, Docker, Jenkins, CI/CD, monitoring, OpenSearch, deployment automation
+
+**Data:** Snowflake, PostgreSQL, ETL pipelines, claims data processing, Spark, Hadoop, Hive, Avro, Parquet
+
+**Leadership:** Technical leadership, architecture reviews, design reviews, feature breakdown, mentoring, cross-team influence, standards, code quality, agile delivery
+
+**AI-Assisted Engineering:** Claude, Codex, code generation, AI-assisted planning, SDLC automation, root cause analysis automation, spec-driven development, AI-powered application fundamentals
+
+**Supporting:** React, frontend development, Python, data analysis
+
+## Experience
+
+### athenahealth
+June 2018 - August 2026
+
+**Principal Software Engineer / Software Architect** | January 2024 - August 2026
+
+- Led a 6-engineer scrum team delivering healthcare revenue-cycle capabilities that help practices identify payer underpayments, reduce revenue leakage, and recover financial claim losses.
+- Designed and implemented Java / Spring Boot microservices and REST APIs for fee schedule management, payment variance reporting, and allowable pricing, including APIs consumed by a downstream insured-cost-estimate service and externally exposed marketplace partners.
+- Architected government-payer allowable-pricing capabilities that ingest public fee schedule data and compare expected allowables, billed charges, and payer payments to surface underpayment opportunities for clients.
+- Led design and delivery of practice fee schedule automation that reduced quarterly client maintenance from days of manual admin / Excel work to a few hours of review.
+- Helped extend underpayment and payment variance capabilities from government payer claims to commercial payers by using AI to parse payer / provider contracts and extract structured fee schedules, terms, conditions, policies, and reimbursement rules.
+- Designed and optimized Python / AWS Glue ETL jobs that move approximately 400,000-700,000 closed-claim records nightly and 5-8 million records during monthly backfills from Snowflake into PostgreSQL databases used by production microservices.
+- Partnered with product ownership and engineering management to break large initiatives into shovel-ready features and stories, improving team execution and delivery clarity.
+- Evolved team delivery from centralized architecture ownership to distributed feature ownership, mentoring engineers to own design, implementation, testing, and deployment end to end.
+- Built 20+ Claude and Codex AI skills to automate SDLC workflows, Jira story management, production root cause analysis, OpenSearch log investigation, AWS infrastructure interrogation, ETL smoke tests, deployment support, code reviews, and bug triage.
+
+_Technologies: Java, Spring Boot, AWS EKS, AWS Glue, Terraform, Jenkins, Docker, PostgreSQL, Snowflake, Python, React, OpenSearch, Claude, Codex_
+
+**Software Architect** | June 2018 - January 2024
+
+- Served as software architect for multiple scrum teams within a major healthcare technology company.
+- Led modernization of legacy monolithic application capabilities into cloud-native microservices hosted on AWS.
+- Introduced domain-driven design concepts and an API-first approach to decompose business domains into bounded contexts and modular REST APIs.
+- Spearheaded reference architecture and reference implementation efforts to codify best practices, improve consistency, and accelerate team delivery.
+- Championed resilient architecture, monitoring, evidence-based technical decisions, code quality, security, and cloud-native engineering principles.
+
+_Additional technologies: Java, Spring Boot, AWS, microservices, REST APIs, domain-driven design, CI/CD, cloud-native architecture_
+
+### Senior Software Engineer
+Hitachi Vantara | July 2017 - June 2018
+
+- Designed and developed features for Pentaho, an analytics, ETL, and big data integration platform.
+- Performed deep-dive performance tuning on a general-purpose Spark application, identifying and resolving bottlenecks in a production analytics pipeline.
+- Proposed and built an automated cloud-based big data test harness to spin up Hadoop clusters, run tests against terabytes of real-world data, collect metrics, and tear down infrastructure.
+- Built backend services using Spring Boot, WebSockets, reactive programming, Java 8, and Docker.
+
+_Technologies: Java, Spring Boot, Docker, Spark, Hadoop, HDFS, Hive, Avro, Parquet, Cloudera, Hortonworks, AWS EMR, SWT, WebSockets_
+
+### Principal Solutions Architect
+TravelClick | November 2016 - May 2017
+
+- Served as solutions architect across four modernization and integration projects in a 6-month engagement: guest management system integration, digital media/ad platform automation, clickstream analysis prototyping, and legacy revenue-management modernization onto Angular / Java REST services.
+- Defined technical solutions and architecture, designed API contracts, and worked directly with executive leadership and delivery teams to align implementation with business goals.
+- Established a global REST API and microservices strategy applied across all four projects.
+- Guided delivery teams building Java / Spring Boot microservices.
+
+_Technologies: Java, Spring Boot, REST APIs, microservices, Angular, clickstream analysis_
+
+### Disney Parks, Experiences and Products
+March 2005 - September 2016
+
+**Technology Manager, Solutions Engineering** | January 2016 - September 2016
+
+- Managed a team of 5 solutions architects across 12 multi-million-dollar projects.
+- Provided technical oversight and architecture decision-making for tactical and strategic solutions across delivery teams and applications.
+- Mentored architects while partnering with executive leadership, product owners, and project management on roadmaps, prioritization, resource allocation, and delivery tracking.
+- Balanced team OpEx planning with delivery needs, architecture quality, and team effectiveness.
+
+**Software Architect** | January 2015 - January 2016
+
+- Served as hands-on architect for personalization, high-traffic real-time event processing, international booking, content management, and platform architecture initiatives.
+- Led architecture evolution from REST-based APIs toward microservices architecture.
+- Laid the foundation for cloud and AWS adoption across the org, including automation, cloud-native application architecture, AWS VPC design, guiding principles, cost analysis, and executive presentations.
+- Founded and led a cross-disciplinary Cloud Working Group to coordinate early adopters, share practices, avoid duplication, and align cloud pilots.
+
+_Technologies: AWS, microservices, REST APIs, cloud-native architecture, real-time data processing, personalization, CMS platforms_
+
+**Staff Software Engineer / Technical Lead** | March 2010 - January 2015
+
+* Served as technical lead, hands-on engineer, performance lead, scrum master, and extended architecture team member for high-traffic commerce and reservation systems.
+* Led and contributed to major refactors, commerce platform migrations, mobile dining applications, RESTful APIs, CMS implementation, and travel-agent booking capabilities.
+* Led RESTful services performance readiness for a major commerce launch, establishing load testing methodology, standard metrics (including Apdex), capacity planning, response-time SLA targets, and production certification practices.
+* Defined REST API standards, service design standards, implementation standards, code quality practices, and CI/CD pipelines.
+* Designed and coded a JMeter web UI tool using Elasticsearch, Bootstrap, jQuery, and D3 to run load tests, monitor application health, store test history, and visualize performance metrics in real time.
+
+_Technologies: Java, Spring, REST APIs, Jenkins, Sonar, JBoss, Tomcat, PHP, Zend, Elasticsearch, JMeter, D3, jQuery_
+
+**Software Architect / Engineering Lead** | March 2005 - March 2010
+
+- Provided hands-on architecture and engineering leadership for online dining reservations, vacation booking, mobile web, commerce, caching, SOA, CI/CD, code quality, and performance engineering initiatives.
+- Middleware technical lead on the organization's largest project: a full platform re-architecture of the primary consumer booking system, leading 7 engineers through the full application lifecycle. The re-architected system supported up to 500,000 daily hits and 10,000 concurrent sessions without degradation, and launched on time and on budget.
+- Guided reusable architecture, standards, design patterns, build automation, application reviews, and mentoring for Java / J2EE delivery teams.
+
+### Earlier Career
+
+Prior roles include principal consultant, software architect, engineering lead, and senior developer positions at Ciber, DCC Services, The Shaw Group, Time Warner Trade Publishing, Netquotient Consulting Group, and Cross Country Group, spanning enterprise, commerce, public-sector, and publishing systems.
+
+- Delivered a major consulting engagement on time and on budget with minimal production issues even at peak load, including streamlining the build/release process from 20 manual steps down to 4.
+- Architected a reusable Security and Identity Management API adopted across a multi-application state government portal.
+- Built a reusable architecture and component framework for ongoing web development that cut projected development time by an estimated 30%.
+- Built internal tools that saved an employer roughly $5,000 in outside program costs and improved interview-analysis efficiency by 60%+.
+
+## Certifications
+
+Previously held AWS Certified Solutions Architect certification.
+
+## Education
+
+Tougaloo College - undergraduate coursework
