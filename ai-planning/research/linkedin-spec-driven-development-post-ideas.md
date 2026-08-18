@@ -50,7 +50,7 @@ Spec-driven development is increasingly described as treating specifications as 
 ### Spec-driven development examples
 
 - Madhav Thotapalli, broad SDD overview: https://www.linkedin.com/pulse/specification-driven-development-sdd-madhav-thotapalli-htrtf/
-- Jonathan Low, SDD is ambiguous and benefits from iterative feedback loops: https://www.linkedin.com/posts/jonathanlowhy_spec-driven-development-is-a-surprisingly-activity-7411348704235855873-LLyw
+- Jonathan Low, SDD is ambiguous and benefits from iterative feedback loops: in https://www.linkedin.com/posts/jonathanlowhy_spec-driven-development-is-a-surprisingly-activity-7411348704235855873-LLyw
 - Ryan van der Kooy, source-of-truth framing with a practical contrast between a vague request and a testable requirement: https://www.linkedin.com/posts/rvanderkooy_am-definitely-a-fan-of-spec-driven-development-activity-7446219148034027521-S9rd
 - Simon Martinelli, responds directly to the “SDD is just waterfall” objection: https://www.linkedin.com/posts/simonmartinelli_specdrivendevelopment-aiup-softwarearchitecture-activity-7479098021578780672-aJGM
 - Alexander Balashov, explains why prompt-first delivery does not scale without requirements, contracts, validation, and boundaries: https://www.linkedin.com/posts/balashov_my-current-take-on-ai-coding-is-pretty-simple-activity-7437183730147983360-Su7W

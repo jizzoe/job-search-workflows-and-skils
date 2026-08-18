@@ -238,11 +238,11 @@ safely narrows that rule.
 | Change | Depends on | Must specify and verify |
 |---|---|---|
 | `job-search-tracker-foundation` | None | Adapter mapping, identity, migrations, backups/recovery, validation, audit log, dry-run fixtures. |
-| `job-discovery-and-verification` | Tracker foundation | Sources, filters, ranking, official-source checks, replacement behavior, stale-posting handling. |
-| `linkedin-job-lead-intake` | Tracker foundation | Permitted surfaces, extraction fields, native IDs, recruiter-view rules, upsert fixtures. |
-| `gmail-job-lead-intake` | Tracker foundation | Thread provenance, untrusted-input handling, classification boundaries, duplicate fixtures. |
-| `company-and-role-research` | Tracker foundation, verification | Light/deep templates, citations, archive/restore, fact/sentiment/inference separation. |
-| `job-search-post-review` | Discovery, research | Decision-driven actions, no-decision mutation guard, replacement selection, idempotent reruns. |
+| `job-discovery-and-verification` | Tracker foundation | Sources, filters, ranking, official-source checks, replacement behavior, stale-posting handling. See [job-discovery-and-verification-design.md](job-discovery-and-verification-design.md). |
+| `linkedin-job-lead-intake` | Tracker foundation | Permitted surfaces, extraction fields, native IDs, recruiter-view rules, upsert fixtures. See [linkedin-job-lead-intake-design.md](linkedin-job-lead-intake-design.md). |
+| `gmail-job-lead-intake` | Tracker foundation | Thread provenance, untrusted-input handling, classification boundaries, duplicate fixtures. See [gmail-job-lead-intake-design.md](gmail-job-lead-intake-design.md). |
+| `company-and-role-research` | Tracker foundation, verification | Light/deep templates, citations, archive/restore, fact/sentiment/inference separation. See [company-and-role-research-design.md](company-and-role-research-design.md). |
+| `job-search-post-review` | Discovery, research | Decision-driven actions, no-decision mutation guard, replacement selection, idempotent reruns. See [job-search-post-review-design.md](job-search-post-review-design.md). |
 | `application-materials-library` | Verification, research | Source selection, answer provenance/approval, tailoring evidence, review artifacts. |
 | `supervised-job-application-assistance` | Materials, tracker | Browser state machine, field validation, manual gates, confirmation evidence, tracker outcome write. |
 | `outreach-and-follow-up-preparation` | Tracker, materials | Draft provenance, contact lifecycle, approval model, no-send test. |
